@@ -1,0 +1,8 @@
+nom_cliente{
+    display: block;
+}
+producto{
+    display: list-item;
+    list-style: inside;
+    margin-left: 20px ;
+}
